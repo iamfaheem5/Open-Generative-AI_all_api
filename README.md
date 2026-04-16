@@ -1,6 +1,6 @@
-# Open Generative AI — Open-Source Alternative to Higgsfield AI, Freepik, Krea, Openart AI
+# Open Generative AI — Uncensored Open-Source Alternative to Higgsfield AI, Freepik, Krea, Openart AI
 
-> **The free, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI.** Generate AI images and videos using 200+ state-of-the-art models — without the closed ecosystem or subscription fees.
+> **The free, open-source, unrestricted alternative to Higgsfield AI, Freepik, Krea, Openart AI.** Generate AI images and videos using 200+ state-of-the-art models — no content filters, no closed ecosystem, no subscription fees.
 
 ## 🌐 Try it Online — No Install Required
 
@@ -101,11 +101,12 @@ echo 'kernel.apparmor_restrict_unprivileged_userns=0' | sudo tee /etc/sysctl.d/9
 
 ---
 
-Open Generative AI is an open-source AI image, video, cinema, and lip sync studio that brings creative workflows to everyone. Powered by [Muapi.ai](https://muapi.ai), it supports text-to-image, image-to-image, text-to-video, image-to-video, and audio-driven lip sync generation across models like Flux, Nano Banana, Midjourney, Kling, Sora, Veo, Seedream, Infinite Talk, LTX Lipsync, Wan 2.2, and more — all from a sleek, modern interface you can self-host and customize.
+Open Generative AI is a free, uncensored, open-source AI image, video, cinema, and lip sync studio that brings unrestricted creative workflows to everyone. No content filters, no prompt rejections, no guardrails — just full creative freedom. Powered by [Muapi.ai](https://muapi.ai), it supports text-to-image, image-to-image, text-to-video, image-to-video, and audio-driven lip sync generation across models like Flux, Nano Banana, Midjourney, Kling, Sora, Veo, Seedream, Infinite Talk, LTX Lipsync, Wan 2.2, and more — all from a sleek, modern interface you can self-host and customize.
 
 **Why Open Generative AI instead of Higgsfield AI, Freepik, Krea AI, Openart AI?**
+- **Uncensored & unrestricted** — no content filters, no nanny guardrails, no prompt rejections
 - **Free & open-source** — no subscription, no vendor lock-in
-- **Self-hosted** — your data stays on your machine
+- **Self-hosted** — your data stays on your machine, full creative control
 - **200+ models** — text-to-image, image-to-image, text-to-video, image-to-video, lip sync
 - **Multi-image input** — feed up to 14 reference images into compatible models
 - **Lip Sync Studio** — animate portraits or sync lips to any audio with 9 dedicated models
@@ -373,6 +374,8 @@ Lip sync jobs use the same two-step pattern: a dedicated `processLipSync()` meth
 | | Other providers | Open Generative AI |
 | :--- | :--- | :--- |
 | **Cost** | Subscription-based | Free (open-source) |
+| **Content filters** | Yes — prompts blocked or altered | None — fully uncensored |
+| **Restrictions** | Platform guardrails enforced | Unrestricted creative freedom |
 | **Models** | Proprietary | 200+ open & commercial models |
 | **Multi-image input** | Limited | Up to 14 images per request |
 | **Lip sync** | No | 9 models, image & video modes |
@@ -394,6 +397,6 @@ Built with [Muapi.ai](https://muapi.ai) — the unified API for AI image and vid
 **Deep Dive**: For more details on the "AI Influencer" engine, upcoming "Popcorn" storyboarding features, and the future of this project, read the [full technical overview](https://medium.com/@anilmatcha/).
 
 ---
-*Looking for a free Higgsfield AI, Freepik, Krea, Openart AI alternative? Open Generative AI is an open-source AI image and video generation studio and Higgsfield AI, Freepik, Krea, Openart AI replacement that you can self-host, customize, and extend.*
+*Looking for a free, uncensored Higgsfield AI, Freepik, Krea, Openart AI alternative? Open Generative AI is an open-source, unrestricted AI image and video generation studio — a Higgsfield AI, Freepik, Krea, Openart AI replacement with no content filters that you can self-host, customize, and extend.*
 
 This project is an independent, experimental, and open-source initiative and is not affiliated with, endorsed by, or associated with Higgsfield Inc., Freepik, Krea AI, OpenArt AI, or any of their respective companies, products, or services. Any references to third-party platforms, models, or technologies are made solely for interoperability, benchmarking, research, or educational purposes. All trademarks, logos, and brand names are the property of their respective owners. If any content in this repository creates confusion or raises concerns, please contact us and we will promptly review and address it.
